@@ -1,0 +1,33 @@
+07:55:02  [main] 	Initializing Control Panel
+07:55:02  [main] 	Windows Version:  Home  64-bit
+07:55:02  [main] 	XAMPP Version: 8.2.4
+07:55:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+07:55:02  [main] 	Running with Administrator rights - good!
+07:55:02  [main] 	XAMPP Installation Directory: "c:\xampp\"
+07:55:02  [main] 	Checking for prerequisites
+07:55:02  [main] 	All prerequisites found
+07:55:02  [main] 	Initializing Modules
+07:55:02  [main] 	Starting Check-Timer
+07:55:02  [main] 	Control Panel Ready
+08:11:38  [Apache] 	Status change detected: running
+08:11:40  [mysql] 	Status change detected: running
+08:21:22  [main] 	Deinitializing Modules
+08:21:22  [main] 	Deinitializing Control Panel
+
+15:37:09  [main] 	Initializing Control Panel
+15:37:09  [main] 	Windows Version:  Home  64-bit
+15:37:09  [main] 	XAMPP Version: 8.2.4
+15:37:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+15:37:09  [main] 	Running with Administrator rights - good!
+15:37:09  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:37:09  [main] 	Checking for prerequisites
+15:37:11  [main] 	All prerequisites found
+15:37:11  [main] 	Initializing Modules
+15:37:11  [mysql] 	XAMPP MySQL is already running on port 3306
+15:37:11  [main] 	Starting Check-Timer
+15:37:11  [main] 	Control Panel Ready
+15:37:20  [Apache] 	Attempting to start Apache service...
+15:37:22  [Apache] 	Status change detected: running
+17:48:45  [main] 	Deinitializing Modules
+17:48:45  [main] 	Deinitializing Control Panel
+
